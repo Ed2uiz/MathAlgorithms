@@ -1,3 +1,3 @@
 # MathAlgo
 
-#### Assortment of functions focusing on linear algebra, calculus, and statistics. 
+#### Assortment of algorithms on linear algebra, calculus, and statistics. 
